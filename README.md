@@ -1,5 +1,5 @@
 # Task 60. Patterns
-In the Automated Testing just like in the Development there are patterns of development. Read and learn more information about them [here].
+In the Automated Testing just like in the Development there are patterns of development. Read and learn more information about them [here](https://www.selenium.dev/documentation/test\_practices/encouraged/page\_object\_models/).
 
 ## Complete task 60.
 Develop 2 tests: 
